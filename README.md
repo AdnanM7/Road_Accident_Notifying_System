@@ -1,3 +1,4 @@
 # Road_Accident_Notifying_System
-To reduce the vulnerabilities after the road accident we have created a system which will help the victim  
+### An Arduino based system to reduse the vulnerability occured to the victim due to road accident 
+
 ![](https://github.com/AdnanM7/Road_Accident_Notifying_System/blob/main/Road%20Accident%20Notifying%20System.png)
