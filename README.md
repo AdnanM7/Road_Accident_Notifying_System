@@ -3,6 +3,7 @@
 
 Don't forget to watch our project's [Demonstration](https://youtu.be/YXnNVHUCteI). 
 
+The circuit schematics of our project is as follows:
 ![](https://github.com/AdnanM7/Road_Accident_Notifying_System/blob/main/Road%20Accident%20Notifying%20System.png)
 ___
 ***
